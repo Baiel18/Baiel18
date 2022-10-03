@@ -12,7 +12,7 @@
 
 ## Social network
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/karybaevv_.09/)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=27A0D9)]()
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/+996700047017)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-128c7e?style=for-the-badge&logo=Whatsapp&logoColor=27A0D9)]()
 
 
