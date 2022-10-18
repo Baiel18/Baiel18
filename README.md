@@ -1,4 +1,4 @@
-#  👋 Hello my name is Baiel i'm Front-end developer 
+#  👋 Hello my name'is Baiel i'am Front-end developer 
 
 <img align="right" alt="GIF" src="https://github.com/Nursultan301/Nursultan301/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -16,3 +16,4 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-128c7e?style=for-the-badge&logo=Whatsapp&logoColor=27A0D9)]()
 
 
+# Baiel
