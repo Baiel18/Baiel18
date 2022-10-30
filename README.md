@@ -16,7 +16,7 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-128c7e?style=for-the-badge&logo=Whatsapp&logoColor=27A0D9)]()
 
 
-# Baiel Karybaev 
+# Baiel Karybaev  
  
    
   
